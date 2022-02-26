@@ -20,9 +20,6 @@ Simply run ***pip install -r requirements.txt*** to install all the dependencies
 
 #### Images 📸✅
 
-![cup_live_feed](https://user-images.githubusercontent.com/29462447/155856334-f495f8db-01ba-499b-815a-31cc4374010c.png)
-![shoe_live_feed](https://user-images.githubusercontent.com/29462447/155856338-83d0eab9-0817-4e38-a371-efe36f5fe88d.png)
-
 | **Cups**  | **Shoes**  |
 |-----------|------------|
 | ![output_cup_3](https://user-images.githubusercontent.com/29462447/155856484-42663f2b-6d87-43c1-995e-8eb5adf44c58.jpg) | ![output_shoe_2](https://user-images.githubusercontent.com/29462447/155856514-351bac6b-05c1-47f7-a690-5dbd71a34220.jpg)  | 
@@ -32,6 +29,13 @@ Simply run ***pip install -r requirements.txt*** to install all the dependencies
 |------------|------------|
 | ![output_chair_1](https://user-images.githubusercontent.com/29462447/155856533-182c17ea-b078-4f30-8f9a-2843c78df136.jpg) | ![output_camera_1](https://user-images.githubusercontent.com/29462447/155856559-284b043b-afaa-4e39-a463-b1183e1a0b7a.jpg) |
 | ![output_chair_2](https://user-images.githubusercontent.com/29462447/155856531-9a2436ea-a05e-4a34-be86-33178b79193a.jpg) | ![output_camera_3](https://user-images.githubusercontent.com/29462447/155856561-824c5bb4-2725-450f-bf2f-4dfa31a4c447.jpg) |
+
+
+#### Live Webcam Feed 📽✅
+
+![cup_live_feed](https://user-images.githubusercontent.com/29462447/155856334-f495f8db-01ba-499b-815a-31cc4374010c.png)
+![shoe_live_feed](https://user-images.githubusercontent.com/29462447/155856338-83d0eab9-0817-4e38-a371-efe36f5fe88d.png)
+
 
 ### Running the Dockerized App
 1. Ensure you have Docker Installed and Setup in your OS (Windows/Mac/Linux). For detailed Instructions, please refer [this.](https://docs.docker.com/engine/install/)
